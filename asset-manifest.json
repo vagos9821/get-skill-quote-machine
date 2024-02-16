@@ -1,24 +1,15 @@
 {
   "files": {
-    "main.css": "/vagos9821/get-skill-quote-machine/static/css/main.0dee8d6b.chunk.css",
-    "main.js": "/vagos9821/get-skill-quote-machine/static/js/main.c5369110.chunk.js",
-    "main.js.map": "/vagos9821/get-skill-quote-machine/static/js/main.c5369110.chunk.js.map",
-    "runtime-main.js": "/vagos9821/get-skill-quote-machine/static/js/runtime-main.f550ecbc.js",
-    "runtime-main.js.map": "/vagos9821/get-skill-quote-machine/static/js/runtime-main.f550ecbc.js.map",
-    "static/js/2.a34c9e5a.chunk.js": "/vagos9821/get-skill-quote-machine/static/js/2.a34c9e5a.chunk.js",
-    "static/js/2.a34c9e5a.chunk.js.map": "/vagos9821/get-skill-quote-machine/static/js/2.a34c9e5a.chunk.js.map",
-    "static/js/3.71a2354e.chunk.js": "/vagos9821/get-skill-quote-machine/static/js/3.71a2354e.chunk.js",
-    "static/js/3.71a2354e.chunk.js.map": "/vagos9821/get-skill-quote-machine/static/js/3.71a2354e.chunk.js.map",
-    "index.html": "/vagos9821/get-skill-quote-machine/index.html",
-    "precache-manifest.3d98eb8f542bd4120dd16c5654602fe8.js": "/vagos9821/get-skill-quote-machine/precache-manifest.3d98eb8f542bd4120dd16c5654602fe8.js",
-    "service-worker.js": "/vagos9821/get-skill-quote-machine/service-worker.js",
-    "static/css/main.0dee8d6b.chunk.css.map": "/vagos9821/get-skill-quote-machine/static/css/main.0dee8d6b.chunk.css.map",
-    "static/js/2.a34c9e5a.chunk.js.LICENSE.txt": "/vagos9821/get-skill-quote-machine/static/js/2.a34c9e5a.chunk.js.LICENSE.txt"
+    "main.css": "/vagos9821.github.io/get-skill-quote-machine/static/css/main.92b84583.css",
+    "main.js": "/vagos9821.github.io/get-skill-quote-machine/static/js/main.5ed74333.js",
+    "static/js/453.9e9bf647.chunk.js": "/vagos9821.github.io/get-skill-quote-machine/static/js/453.9e9bf647.chunk.js",
+    "index.html": "/vagos9821.github.io/get-skill-quote-machine/index.html",
+    "main.92b84583.css.map": "/vagos9821.github.io/get-skill-quote-machine/static/css/main.92b84583.css.map",
+    "main.5ed74333.js.map": "/vagos9821.github.io/get-skill-quote-machine/static/js/main.5ed74333.js.map",
+    "453.9e9bf647.chunk.js.map": "/vagos9821.github.io/get-skill-quote-machine/static/js/453.9e9bf647.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.f550ecbc.js",
-    "static/js/2.a34c9e5a.chunk.js",
-    "static/css/main.0dee8d6b.chunk.css",
-    "static/js/main.c5369110.chunk.js"
+    "static/css/main.92b84583.css",
+    "static/js/main.5ed74333.js"
   ]
 }
