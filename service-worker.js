@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vagos9821/get-skill-quote-machine/precache-manifest.97945181461aae0d1080028b1e6712aa.js"
+  "/vagos9821/get-skill-quote-machine/precache-manifest.3d98eb8f542bd4120dd16c5654602fe8.js"
 );
 
 self.addEventListener('message', (event) => {
